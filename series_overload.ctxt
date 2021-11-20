@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=series_overload
+comment1.params=n\ x
+comment1.target=double\ series(int,\ int)
+comment2.params=n
+comment2.target=void\ series(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

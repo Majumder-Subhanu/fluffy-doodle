@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ComplexNumberAddition
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ob3
+comment2.target=void\ show(ComplexNumberAddition)
+comment3.params=ob1\ ob2
+comment3.target=ComplexNumberAddition\ add(ComplexNumberAddition,\ ComplexNumberAddition)
+comment4.params=x1\ y1
+comment4.target=void\ input(float,\ float)
+numComments=5
